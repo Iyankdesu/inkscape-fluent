@@ -19,7 +19,7 @@ Fluent theme for Inkscape, best look theme for windows.
 2. Copy the svg file and paste it into ~/.config/inkscape/themes
 
    ```shell
-   cp *.svg ~/.config/inkscape/themes
+   cp Fluent ~/.config/inkscape/themes
    ```
 
 3. Done
